@@ -1,0 +1,34 @@
+body{
+
+    background-image: url(fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;       
+    background-attachment: fixed;
+    
+}
+
+div#descripcioon{
+        
+    opacity: 0.6;
+    margin: auto;
+    width: 800px;
+    height: 1300;
+    border: 15px solid #f700ff;
+    
+    background-color: rgb(123, 0, 160);
+        
+}
+
+
+div#imagen{
+    
+    justify-content: center;
+    text-align: center;
+    opacity: 0.8;s
+    width: 800px;
+    height: 1300;
+    border: 15px solid #f700ff;
+
+}
+
